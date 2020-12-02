@@ -1,7 +1,7 @@
-#ALA Project Aztec Casta
+# ALA Project Aztec Casta
 Schoolproject ALA
 
-###Sitemap
+### Sitemap
 * Home
     * Blog
         * Blog Posts
