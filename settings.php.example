@@ -2,10 +2,10 @@
 
 $_SETTINGS = array (
     "SITE_NAME" => "Aztec Casta",
-    "DB_HOST" => "localhost",
-    "DB_USERNAME" => "aztec_casta",
-    "DB_PASSWORD" => "ALA2020@!",
-    "DB_NAME" => "aztec_casta",
+    "DB_HOST" => "[host]",
+    "DB_USERNAME" => "[username]",
+    "DB_PASSWORD" => "[password]",
+    "DB_NAME" => "[name]",
 );
 
 
