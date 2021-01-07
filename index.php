@@ -14,7 +14,7 @@ require_once('./settings.php');
     <?php require_once("./parts/nav.php"); ?>
 
     <main>
-        <h1>Hello World!</h1>
+        <h1>Hello Worlde!</h1>
     </main>
     
     <?php require_once("./parts/footer.php"); ?>
