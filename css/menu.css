@@ -24,3 +24,8 @@ body {
     z-index: 3;
 }
 
+.first-name {
+    position: absolute;
+    top: 725px;
+    right: 175px;
+}
