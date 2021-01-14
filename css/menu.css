@@ -29,3 +29,34 @@ body {
     top: 725px;
     right: 175px;
 }
+.last-name {
+    position: absolute;
+    top: 725px;
+    right: 20px;
+}
+.date {
+    position: absolute;
+    top: 800px;
+    right: 195px;
+}
+.time {
+    position: absolute;
+    top: 800px;
+    right: 20px;
+}
+.phone {
+    position: absolute;
+    top: 900px;
+    right: 180px;
+}
+
+#button1 {
+    z-index: 3;
+    position: absolute;
+    top: 900px;
+    right: 70px;
+}
+
+#opening {
+    
+}
