@@ -73,4 +73,20 @@ right: 175px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    
+}
+
+#food1 {
+
+}
+
+#food2 {
+    position: absolute;
+    top: 1200px;
+    left: 1px;
+}
+
+#food3 {
+    position: absolute;
+    top: 1300px;
+    left: 1px;
+}
