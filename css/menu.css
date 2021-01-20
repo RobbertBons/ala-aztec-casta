@@ -20,18 +20,24 @@ body {
     right: 1px;
 }
 
-.first-name, .last-name, .date, .time, .phone {
+.first-name, .last-name, .date, .time, .phone, #booking {
     z-index: 3;
+}
+
+#booking {
+position: absolute;
+top: 700px;
+right: 175px;
 }
 
 .first-name {
     position: absolute;
-    top: 725px;
+    top: 750px;
     right: 175px;
 }
 .last-name {
     position: absolute;
-    top: 725px;
+    top: 750px;
     right: 20px;
 }
 .date {
@@ -62,3 +68,9 @@ body {
     position: absolute;
     top: 910px;
 }
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
