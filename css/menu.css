@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+    padding: 0;
+    margin: 0 auto;
+}
+
+#backgroundpicture {
+    width: 1518px;
+    height: 600px;
+}
+
+#order_now {
+    z-index: 2;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    top: 700px;
+    right: 1px;
+}
+
+.first-name, .last-name, .date, .time, .phone, #booking {
+    z-index: 3;
+}
+
+#booking {
+position: absolute;
+top: 700px;
+right: 175px;
+}
+
+.first-name {
+    position: absolute;
+    top: 750px;
+    right: 175px;
+}
+.last-name {
+    position: absolute;
+    top: 750px;
+    right: 20px;
+}
+.date {
+    position: absolute;
+    top: 800px;
+    right: 195px;
+}
+.time {
+    position: absolute;
+    top: 800px;
+    right: 20px;
+}
+.phone {
+    position: absolute;
+    top: 900px;
+    right: 180px;
+}
+
+#button1 {
+    z-index: 3;
+    position: absolute;
+    top: 900px;
+    right: 70px;
+}
+
+#opening {
+    color: white;
+    position: absolute;
+    top: 910px;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+#food1 {
+
+}
+
+#food2 {
+    position: absolute;
+    top: 1200px;
+    left: 1px;
+}
+
+#food3 {
+    position: absolute;
+    top: 1300px;
+    left: 1px;
+}
+
+#food4 {
+    position: absolute;
+    top: 1400px;
+    left: 1px;
+}
+
+#food5 {
+    position: absolute;
+    top: 1110px;
+    left: 700px;
+}
+
+#food6 {
+    position: absolute;
+    top: 1200px;
+    left: 700px;
+}
+
+#food7 {
+    position: absolute;
+    top: 1300px;
+    left: 700px;
+}
+
+#food8 {
+    position: absolute;
+    top: 1400px;
+    left: 700px;
+}
