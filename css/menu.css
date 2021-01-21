@@ -90,3 +90,33 @@ right: 175px;
     top: 1300px;
     left: 1px;
 }
+
+#food4 {
+    position: absolute;
+    top: 1400px;
+    left: 1px;
+}
+
+#food5 {
+    position: absolute;
+    top: 1110px;
+    left: 700px;
+}
+
+#food6 {
+    position: absolute;
+    top: 1200px;
+    left: 700px;
+}
+
+#food7 {
+    position: absolute;
+    top: 1300px;
+    left: 700px;
+}
+
+#food8 {
+    position: absolute;
+    top: 1400px;
+    left: 700px;
+}
