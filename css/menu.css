@@ -75,8 +75,24 @@ right: 175px;
     border-radius: 50%;
 }
 
-#food1 {
 
+#starter {
+    color: white;
+    position: absolute;
+    top: 1050px;
+
+}
+
+#main_dish{
+    color: white;
+    position: absolute;
+    top: 1050px;
+    right: 50%;
+}
+
+#food1 {
+    position: absolute;
+    top: 1110px;
 }
 
 #food2 {
