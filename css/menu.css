@@ -90,28 +90,7 @@ right: 175px;
     right: 50%;
 }
 
-#food1 {
-    position: absolute;
-    top: 1110px;
-}
 
-#food2 {
-    position: absolute;
-    top: 1200px;
-    left: 1px;
-}
-
-#food3 {
-    position: absolute;
-    top: 1300px;
-    left: 1px;
-}
-
-#food4 {
-    position: absolute;
-    top: 1400px;
-    left: 1px;
-}
 
 #food5 {
     position: absolute;
